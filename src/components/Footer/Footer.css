@@ -1,5 +1,6 @@
 footer {
   text-align: center;
+  margin-bottom: 1rem;
 }
 
 footer h3 {
@@ -15,4 +16,5 @@ footer h3 {
 hr {
   margin-left: 25%;
   margin-right: 25%;
+  margin-top: 10vh;
 }

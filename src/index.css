@@ -54,6 +54,7 @@ body {
   table-layout: fixed;
   border-spacing: 1rem;
   text-align: right;
+  padding-bottom: 40px;
 }
 
 #result thead {
@@ -69,4 +70,8 @@ body {
 
 .center {
   text-align: center;
+}
+
+.section-table {
+  min-height: 30vh;
 }
