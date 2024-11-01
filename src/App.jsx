@@ -1,7 +1,14 @@
+import Header from "./components/Header/Header";
+import Footer from "./components/Footer/Footer";
+
 function App() {
   return (
-    <h1>React Investment Calculator</h1>
-  )
+    <>
+      <Header />
+      <main></main>
+      <Footer />
+    </>
+  );
 }
 
-export default App
+export default App;
