@@ -39,8 +39,8 @@ function App() {
           investment={investment}
           onInvestmentDataChange={handleInvestmentDataChange}
         />
+        <section className="section-table">{resultTable}</section>
       </main>
-      <section className="section-table">{resultTable}</section>
       <Footer />
     </>
   );
