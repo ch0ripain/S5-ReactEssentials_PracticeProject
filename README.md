@@ -1,2 +1,2 @@
-📟 Simple Investment Calculator 📟
+📟 Simple Investment Calculator 📟\
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
