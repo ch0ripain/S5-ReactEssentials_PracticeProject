@@ -1,6 +1,6 @@
 ### 📟 Simple Investment Calculator 📟
 
-<center>[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite)](https://skillicons.dev)</center>
+<p align="center">[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite)](https://skillicons.dev)</p>
 ![investment-calculator](https://github.com/user-attachments/assets/05e6d4ad-46cf-4c47-b885-5b0a25102fd7)
 
 ---
